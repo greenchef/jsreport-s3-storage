@@ -8,5 +8,5 @@ Configure your config options as follows:
       "accessKeyId" : "yourS3AccessKeyId",
       "secretAccessKey" : "yourS3SecretAccessKey",
       "s3OutputBucketName ": "yourS3BucketName",
-      "s3OutputBaseURI": "yourS3BucketRegion Base URI - Example: https://s3-us-west-2.amazonaws.com"
+      "s3OutputBaseURI": yourS3BucketRegion Base URI - Example: "https://s3-us-west-2.amazonaws.com"
     },
