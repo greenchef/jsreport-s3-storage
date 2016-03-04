@@ -16,10 +16,9 @@
     "aws"
   ],
   "dependencies": {
-    "azure-storage": "^0.6.0",
+    "aws-sdk": "^2.2.41",
     "q": "^1.4.1"
   },
   "author": "Franklin Gauer",
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
