@@ -19,6 +19,6 @@
     "aws-sdk": "^2.2.41",
     "q": "^1.4.1"
   },
-  "author": "Franklin Gauer",
+  "author": "Franklin M. Gauer III",
   "devDependencies": {}
 }
