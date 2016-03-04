@@ -2,7 +2,9 @@
 
 A jsreport extension that saves jsreport output to Amazon S3.
 
-**Note: this is a work in progress**
+The general purpose is to save all rendered report output to an Amazon S3 bucket and then return the link to the rendered output so any client can retrieve the output directly from S3.
+
+This project does not save any jsrepose related report templates or blobs to Amazon S3, just rendered report output.
 
 ## Global Config Settings
 
