@@ -1,0 +1,25 @@
+{
+  "name": "jsreport-s3-storage",
+  "version": "0.1.0",
+  "description": "jsreport extension adding support for storing rendered report output in Amazon s3",
+  "scripts": {
+    "test": "standard"
+  },
+  "homepage": "https://github.com/fgauer/jsreport-s3-storage",
+  "repository": {
+    "type": "git",
+    "url": "github.com/fgauer/jsreport-s3-storage.git"
+  },
+  "keywords": [
+    "jsreport",
+    "s3",
+    "aws"
+  ],
+  "dependencies": {
+    "azure-storage": "^0.6.0",
+    "q": "^1.4.1"
+  },
+  "author": "Franklin Gauer",
+  "devDependencies": {
+  }
+}
