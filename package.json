@@ -5,10 +5,10 @@
   "scripts": {
     "test": "standard"
   },
-  "homepage": "https://github.com/tom-con/jsreport-s3-storage",
+  "homepage": "https://github.com/greenchef/jsreport-s3-storage",
   "repository": {
     "type": "git",
-    "url": "github.com/tom-con/jsreport-s3-storage.git"
+    "url": "github.com/greenchef/jsreport-s3-storage.git"
   },
   "keywords": [
     "jsreport",
