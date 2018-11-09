@@ -1,14 +1,14 @@
 {
-  "name": "jsreport-s3-storage",
-  "version": "0.2.1",
+  "name": "jsreport-vtwo-s3-storage",
+  "version": "0.2.2",
   "description": "jsreport extension adding support for storing rendered report output in Amazon s3",
   "scripts": {
     "test": "standard"
   },
-  "homepage": "https://github.com/fgauer/jsreport-s3-storage",
+  "homepage": "https://github.com/tom-con/jsreport-s3-storage",
   "repository": {
     "type": "git",
-    "url": "github.com/fgauer/jsreport-s3-storage.git"
+    "url": "github.com/tom-con/jsreport-s3-storage.git"
   },
   "keywords": [
     "jsreport",
@@ -19,6 +19,6 @@
     "aws-sdk": "^2.2.41",
     "q": "^1.4.1"
   },
-  "author": "Franklin M. Gauer III",
+  "author": "Tom Conchie",
   "devDependencies": {}
 }
