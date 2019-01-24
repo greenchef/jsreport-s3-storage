@@ -1,6 +1,6 @@
 {
   "name": "jsreport-vtwo-s3-storage",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "description": "jsreport extension adding support for storing rendered report output in Amazon s3",
   "scripts": {
     "test": "standard"
